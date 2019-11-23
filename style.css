@@ -23,8 +23,8 @@ ul li a {
     position: relative;
     background-color: aqua;
     display: inline-block; 
-    height: 170px;
-    width: 170px;
+    height: 350px;
+    width: 450px;
     margin-left: 5px;
 }
 .time {
