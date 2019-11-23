@@ -21,10 +21,10 @@ ul li a {
 }
 .main {
     position: relative;
-    background-color: aqua;
+    background-color: red;
     display: inline-block; 
-    height: 350px;
-    width: 450px;
+    height: 450px;
+    width: 480px;
     margin-left: 5px;
 }
 .time {
@@ -32,10 +32,25 @@ ul li a {
     bottom: 20px;
     right: 20px;
     color: white; 
-    margin-left: 23px;
+    margin-left: 420px;
 }
-.p {
+.h1 {
     color: black;
+}
+.time1 {
+    color: white;
+    margin-top: -25px;
+}
+.titel {
+    width: 78px;
+    margin-top: 5px;
+}
+.titel1 {
+    font-size: 40px;
+    color: black;
+    margin-left: -398px;
+    background-color: darkgray;
+    text-align: center;
 }
 .video {
     margin-top: 10px;
