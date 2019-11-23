@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+ul li a {
+    margin-right: 10px;
+    
+}
+.active {
+    padding: 10px 5px 10px 5px;
+    background-color: red;
+}
+.main {
+    position: relative;
+    background-color: aqua;
+    display: inline-block; 
+    height: 170px;
+    width: 170px;
+    margin-left: 5px;
+}
+.time {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    color: white; 
+    margin-left: 23px;
+}
+.p {
+    color: black;
+}
+.video {
+    margin-top: 10px;
+}
+.red {
+    background-color: red;
+    height: 5px;
+}
